@@ -10,3 +10,12 @@ Some of the things I want to learn are:
 - [ ] Observability and cost
 - [ ] Safety and security
 - [ ] Embedding and fine-tuning
+
+
+# Requirements
+1. Python 3.x+
+2. uv
+
+# How to run
+1. Run `uv sync` to grab dependencies
+2. Run `uv run [path-to-one-of-the-py-files]`
