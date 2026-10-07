@@ -1,4 +1,5 @@
 These are my Python and LangChain study projects that I've been working on.
+No AI coding. Everything written manually so I actually learn.
 
 Some of the things I want to learn are:
 - [x] LangChain
